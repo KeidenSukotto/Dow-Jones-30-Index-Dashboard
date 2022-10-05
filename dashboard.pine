@@ -69,20 +69,20 @@ calculations() =>
         if percentage_change > 0
             uptrend := uptrend + 1
             uptrend_change := uptrend_change + change
-            uptrend_percentage_change = uptrend_percentage_change + percentage_change
-        
+            uptrend_percentage_change := uptrend_percentage_change + percentage_change
+
         else if percentage_change < 0
             downtrend := downtrend + 1
             downtrend_change := downtrend_change + change
             downtrend_percentage_change := downtrend_percentage_change + percentage_change
-    
+
     up_percent = (uptrend / 30) * 100
     down_percent = (downtrend / 30) * 100
 
-    [uptrend, up_percent, uptrend_change, uptrend_percentage_change, downtrend, down_percent, downtrend_change, downtrend_percentage_change
+    [uptrend, up_percent, uptrend_change, uptrend_percentage_change, downtrend, down_percent, downtrend_change, downtrend_percentage_change]
 
 
-[uptrend, uptrendPerc, uptrendChange, uptrendCperc, downtrend, downtrendPerc, downtrendChange, downtrendCperc] = calculate()
+[uptrend, uptrendPerc, uptrendChange, uptrendCperc, downtrend, downtrendPerc, downtrendChange, downtrendCperc] = calculations()
 
 // table
 
