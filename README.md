@@ -2,8 +2,6 @@
 
 This GitHub repository contains a custom TradingView indicator implemented in Pine Script. The indicator provides a comprehensive summary of the Dow Jones Industrial Average (US30) and its constituent stocks. The code is subject to the terms of the Mozilla Public License 2.0.
 
-**Author**: KeidenIsKayden
-
 ## Indicator Overview
 
 The "US30 Dashboard" indicator is designed to give traders and investors a quick overview of the performance of the Dow Jones Industrial Average (US30) and its 30 constituent stocks. It displays various key metrics, including the trend, the number of stocks in an uptrend and downtrend, the percentage of stocks in each trend, the total change in stock prices, and the percentage change in stock prices.
