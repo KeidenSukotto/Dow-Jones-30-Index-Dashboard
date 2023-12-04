@@ -34,5 +34,3 @@ The indicator presents its findings in a visually appealing table format. The ta
 - **Stocks (%)**: The percentage of stocks in an uptrend and downtrend, displayed in green and red, respectively.
 - **Change**: The total change in closing prices for uptrending and downtrending stocks.
 - **Change (%)**: The total percentage change in closing prices for uptrending and downtrending stocks.
-
-This table provides a clear and concise summary of the Dow Jones Industrial Average's performance, allowing traders and investors to make informed decisions based on the trend and stock movements.
