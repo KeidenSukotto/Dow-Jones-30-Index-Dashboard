@@ -34,3 +34,6 @@ The indicator presents its findings in a visually appealing table format. The ta
 - **Stocks (%)**: The percentage of stocks in an uptrend and downtrend, displayed in green and red, respectively.
 - **Change**: The total change in closing prices for uptrending and downtrending stocks.
 - **Change (%)**: The total percentage change in closing prices for uptrending and downtrending stocks.
+
+
+**Disclaimer:** This script is provided for educational purposes and does not constitute financial advice. Use it responsibly and at your own risk when trading or investing.
